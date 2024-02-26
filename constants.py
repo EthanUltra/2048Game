@@ -46,7 +46,10 @@ CELL_COLOR_DICT = {
 FONT = ("Verdana", 40, "bold")
 
 KEY_QUIT = "Escape"
+KEY_RESTART = "r"
+KEY_RESTART_ALT1 = "R"
 KEY_BACK = "b"
+KEY_BACK_ALT1 = "B"
 
 KEY_UP = "Up"
 KEY_DOWN = "Down"
@@ -57,3 +60,8 @@ KEY_UP_ALT1 = "w"
 KEY_DOWN_ALT1 = "s"
 KEY_LEFT_ALT1 = "a"
 KEY_RIGHT_ALT1 = "d"
+
+KEY_UP_ALT2 = "W"
+KEY_DOWN_ALT2 = "S"
+KEY_LEFT_ALT2 = "A"
+KEY_RIGHT_ALT2 = "D"
